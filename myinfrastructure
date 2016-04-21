@@ -1,3 +1,4 @@
 #!/bin/sh
 
-docker-compose up -d
+echo 'this is test'
+#docker-compose up -d
